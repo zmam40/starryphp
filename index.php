@@ -12,3 +12,10 @@ if (!$db) {
 }
 $result = pg_query($db, "SELECT statement goes here");
 ?>
+<html>
+<head>
+</head>
+<body>
+<p>test</p>
+</body>
+</html>
