@@ -2,10 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="Refresh" content="0; URL=http://blog.pcch.org/support" />
+
 <title>blog</title>
 </head>
 
 <body>
+	<p>test</p>
 </body>
 </html>
